@@ -1,0 +1,2 @@
+C:\Users\TS\Desktop\2d-shooting-game\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\TS\Desktop\2d-shooting-game\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
